@@ -1,0 +1,59 @@
+@font-face {
+    font-family: "grotesk-regular";
+    src: url("../public/fonts/Grotesk/HKGrotesk-Regular.otf");
+}
+
+@font-face {
+    font-family: "grotesk-bold";
+    src: url("../public/fonts/Grotesk/HKGrotesk-Bold.otf");
+}
+
+@font-face {
+    font-family: "grotesk-semi-bold";
+    src: url("../public/fonts/Grotesk/HKGrotesk-SemiBoldLegacy.otf");
+}
+
+@font-face {
+    font-family: "grotesk-medium";
+    src: url("../public/fonts/Grotesk/HKGrotesk-Medium.otf");
+}
+
+:root {
+    /* * Background-colors */
+    --primary-bg : #008ECC;
+    --secondary-bg : #F3F9FB;
+    --subheader-bg : #F5F5F5;
+
+    /* Sale */
+    --sale-primary-bg : #414141;
+    --sale-secondary-bg : #F6DE8D;
+    --sale-third-bg : #FFD1B0;
+
+    /* button-bg */
+    --btn-primary-bg : #494949;
+    --btn-secondary-bg : #F6DE8D;
+    --btn-third-bg : #FFD1B0;
+
+    /* circle-bg */
+    --circle-bg : #05ABF3;
+
+    /* * COLORS */
+    --primary-color : #666666;
+    --secondary-color : #008ECC;
+    --heading-color : #222222;
+ 
+
+    /* font-size */
+    --font-size-xl : 18px;
+    --font-size-l : 16px;
+    --font-size-m : 14px;
+    --font-size-s : 12px;
+    --font-size-xs : 10px;
+
+    /* font-weight */
+    --font-weight-xl : 700;
+    --font-weight-l : 600;
+    --font-weight-m : 500;
+    --font-weight-s : 400;
+    --font-weight-xs : 300;
+}
