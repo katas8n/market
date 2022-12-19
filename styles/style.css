@@ -11,36 +11,3 @@
     justify-content: center;
     align-items: center;
 }
-
-.box {
-    background: magenta;
-    border: 1px solid aliceblue;
-    width: 150px;
-    height: 150px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 0 2rem;
-}
-
-/* .box-text { */
-    /* 1vw - 1% from display */
-    /* font-size: 5vw ;
-} */
-
-/* .box-text {
-    font-size: 1.8rem;
-}
-
-@media (min-width : 320px) and (max-width : 576px) {
-    #app {
-        background: magenta;
-        display: grid;
-        grid-template-columns: repeat(1 , 320px);
-    }
-
-    .box {
-        width: 100%;
-        background: darkmagenta;
-    }
-} */
